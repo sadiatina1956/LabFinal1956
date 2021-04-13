@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-div {
+  margin: 15px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: whitesmoke;
+}
+
+.mid-div {
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: rgb(202, 199, 199);
+  transition: 0.5s;
+}
+.mid-div:hover {
+  box-shadow: 0px 8px 5px 0px black;
+}
+
+.form-div {
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: rgb(202, 199, 199);
+}
+
+.lav {
+  padding: 5px;
+  border-radius: 10px;
+}
